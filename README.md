@@ -1,3 +1,25 @@
+## 个人 Linux Autokey 改键设置
+
+脚本编写参考了 [MetaKermit](https://github.com/metakermit/dotfiles/tree/master/autokey) 的已有设置
+
+键位设置修改为萧井陌的[设置](https://zhuanlan.zhihu.com/p/24020977), 唯一不同的地方在于 C-u 与 C-k 没有找到设置方法
+
+### 使用
+
+- pip 安装 Autokey
+
+`pip3 install --user autokey`
+
+- 复制所有文件至 `~/.config/autokey/data/emacs`
+
+- 添加 autokey 开机自启, 这一步不多说了各显神通吧
+
+### ~我要是买得起 Mac 还需要这么折腾吗~
+
+以下部分为原 repo 说明
+
+
+
 AutoKey-Emacs
 ==============
 
