@@ -2,7 +2,9 @@
 
 脚本编写参考了 [MetaKermit](https://github.com/metakermit/dotfiles/tree/master/autokey) 的已有设置
 
-键位设置修改为萧井陌的[设置](https://zhuanlan.zhihu.com/p/24020977), 唯一不同的地方在于 C-u 与 C-k 没有找到设置方法
+键位设置修改为萧井陌的[设置](https://zhuanlan.zhihu.com/p/24020977), ~唯一不同的地方在于 C-u 与 C-k 没有找到设置方法~
+
+现在应该完全一致了
 
 ### 使用
 
